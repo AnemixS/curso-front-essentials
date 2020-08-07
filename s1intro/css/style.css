@@ -1,0 +1,44 @@
+body{
+  border: 1px solid #fe1955;
+  padding: 2%;
+}
+header{
+  background-color: #66ffff;
+  border: 1px solid #ffa7f2;
+}
+nav{
+  background-color: #df01d7;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+section{
+  margin-top: 10px;
+  border: 1px solid #3a3d45;
+  background-color: #6699ff;
+  width: 69%;
+  display: inline-block;
+}
+article{
+  background-color: #f5a9e1;
+  height: 50px;
+  margin: 10px;
+}
+aside{
+  display: block;
+  border: 1px solid #443c3e;
+  background-color: #f7819f;
+  width: 29%;
+  float: right;
+  height: 214px;
+}
+footer{
+  border: 1px solid #1313fd;
+  background-color: #cecef6;
+}
+p{
+  margin-top: 0px;
+}
+.mt-10{
+  margin-top: 10px;
+}
